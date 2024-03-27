@@ -1,2 +1,7 @@
 scipy
 tqdm
+einops
+torch-geometric
+linformer-pytorch
+pandas
+openpyxl
